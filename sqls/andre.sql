@@ -29,4 +29,4 @@ insert into vendedores (nome) values ("douglas");
 
 select*from vendas;
 
-INSERT INTO vendas (data_venda, vendedor, produto_id, quantidade) VALUES ('2024-01-01', 'guto', '8', 5);
+INSERT INTO vendas (data_venda, vendedor, produto_id, quantidade) VALUES ('2024-01-01', 'guto', 2, 5);

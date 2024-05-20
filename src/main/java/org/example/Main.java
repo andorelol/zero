@@ -7,7 +7,7 @@ import java.sql.*;
 import java.util.Scanner;
 
 public class Main {
-    private static final String URL = "jdbc:mysql://localhost:3306/andre";
+    private static final String URL = "jdbc:mariadb://localhost:3306/andre";
     private static final String USER = "root";
     private static final String PASSWORD = "andre";
 
